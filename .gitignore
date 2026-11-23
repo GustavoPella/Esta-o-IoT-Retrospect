@@ -1,0 +1,15 @@
+# Credenciais reais — nunca versionar. Use secrets.example.h como modelo.
+secrets.h
+
+# Build / IDE
+*.o
+*.hex
+*.bin
+*.elf
+.vscode/
+.pio/
+build/
+
+# Sistema
+.DS_Store
+Thumbs.db
